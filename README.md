@@ -1,5 +1,6 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
+lab done : https://public.tableau.com/app/profile/ako.kitamura/viz/tableau-lab_tbwx_17676138140200/8_FQ?publish=yes
 # Lab | Tableau
 
 ### Learning Outcomes
@@ -36,4 +37,3 @@ Upon completion of this lab, you will be able to:
 
 10. **Save Your Work**: Preserve your Tableau workbook by saving it as `tableau-lab.tbwx`.
 
-My link to the work : https://public.tableau.com/app/profile/ako.kitamura/viz/tableau-lab_tbwx_17676138140200/8_FQ?publish=yes
